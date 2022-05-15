@@ -1,4 +1,4 @@
-# SQL #SSMS #microsoft
+# SQL # SSMS # Microsoft
                                                      
                                               Working with SQL in Microsoft SSMS.
 
